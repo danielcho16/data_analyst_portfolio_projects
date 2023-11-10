@@ -1,1 +1,2 @@
-# data_analyst_portfolio_projects
+# Data Analyst Portfolio Projects
+This repository holds projects portraying data cleaning, data exploration, and SQL queries.
